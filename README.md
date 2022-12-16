@@ -34,5 +34,7 @@
    <img alt="Night Coding" src="https://i.imgur.com/tbgWQm3.gif"/> 
  </div>
 
-  
- 🤝🏻 &nbsp;Conecte-se comigo: <a href="https://www.linkedin.com/in/roger-augusto/"><img height="15px" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+ <div>
+  <a href="https://www.linkedin.com/in/roger-augusto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "mailto:rogeraugustosoares@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
+</div>
