@@ -1,30 +1,43 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-    <title>TESTE</title>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-  </head>
-  <body>
-    <div class="container">
-      <div class="row">
-        <div class="col-sm">
-              <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-        </div>
-        <div class="col-sm">
-              <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-        </div>
-        <div class="col-sm">
-              <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-        </div>
-      </div>
-    </div>
-  </body>
-</html>
+<div>
+cpp  
+                                    void life(void)
+                                    {
+                                      printf("Hi 👋, I'm Leonardo! \n");
+                                      printf("A passionate linux hacker from Brazil \n");
+                                      char currentlyLearning[] = "Java";
+                                      char AskMeAbout[] = "Anything";
+                                      char ReachMeAt[] = "contato@leonardoliveira.com";
+                                      char FunFact[]  = "I'm not fun 😭";
+                                    }
+</div>
+!-->
+<div align=center>
 
+ 
+   <p align=center><a href="https://github.com/deep.5050"><img src="https://i.imgur.com/gO1tJqp.png" title="Technologies I use" align=center/></a></p>
+  
+  ![Beecrowd](https://beecrowd.leonardoliveira.com/?profile=552824)
+  ![Visitas](https://visitor-badge.glitch.me/badge?page_id=srgoogle23.srgoogle23)&nbsp;
+ <div align="center">
+   <img src="https://img.shields.io/badge/php%20-%23339933.svg?&style=for-the-badge&logo=php&logoColor=white" />
+   <img src="https://img.shields.io/badge/wordpress%20-%23339933.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />
+   <img src="https://img.shields.io/badge/%20-%23339933.svg?&style=for-the-badge&logo=c&logoColor=white" />
+   <img src="https://img.shields.io/badge/electron%20-%23e34f26.svg?&style=for-the-badge&logo=electron&logoColor=white" />
+   <img src="https://img.shields.io/badge/javascript%20-%23339933.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+   <img src="https://img.shields.io/badge/Docker%20-%23e34f26.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+   <img src="https://img.shields.io/badge/python%20-%23339933.svg?&style=for-the-badge&logo=python&logoColor=white" />
+   <img src="https://img.shields.io/badge/Linux%20-%23e34f26.svg?&style=for-the-badge&logo=linux&logoColor=white" />
+   <img src="https://img.shields.io/badge/java%20-%23339933.svg?&style=for-the-badge&logo=java&logoColor=white" />
+   <img src="https://img.shields.io/badge/kotlin%20-%23339933.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
+   <img src="https://img.shields.io/badge/typescript%20-%23339933.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+   <img src="https://img.shields.io/badge/swift%20-%23339933.svg?&style=for-the-badge&logo=swift&logoColor=white" />
+   <img src="https://img.shields.io/badge/go%20-%23339933.svg?&style=for-the-badge&logo=go&logoColor=white" />
+   <img src="https://img.shields.io/badge/scala%20-%23339933.svg?&style=for-the-badge&logo=scala&logoColor=white" />
+   <img src="https://img.shields.io/badge/elm%20-%23339933.svg?&style=for-the-badge&logo=elm&logoColor=white" />
+ </div>
+ </div>
 
 ### Hi there 👋
 
