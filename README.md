@@ -1,23 +1,7 @@
-<div>
-cpp  
-                                    void life(void)
-                                    {
-                                      printf("Hi 👋, I'm Leonardo! \n");
-                                      printf("A passionate linux hacker from Brazil \n");
-                                      char currentlyLearning[] = "Java";
-                                      char AskMeAbout[] = "Anything";
-                                      char ReachMeAt[] = "contato@leonardoliveira.com";
-                                      char FunFact[]  = "I'm not fun 😭";
-                                    }
-</div>
-!-->
 <div align=center>
-
  
    <p align=center><a href="https://github.com/deep.5050"><img src="https://i.imgur.com/gO1tJqp.png" title="Technologies I use" align=center/></a></p>
-  
-  ![Beecrowd](https://beecrowd.leonardoliveira.com/?profile=552824)
-  ![Visitas](https://visitor-badge.glitch.me/badge?page_id=srgoogle23.srgoogle23)&nbsp;
+
  <div align="center">
    <img src="https://img.shields.io/badge/php%20-%23339933.svg?&style=for-the-badge&logo=php&logoColor=white" />
    <img src="https://img.shields.io/badge/wordpress%20-%23339933.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />
