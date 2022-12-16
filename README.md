@@ -24,18 +24,15 @@
  
 </div>   
           
-          
-<!--
-**rgr14/rgr14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ### 👨🏻‍💻 &nbsp;Sobre mim
+💡 &nbsp;Sou curioso gosto de explorar novas tecnologias, estar sempre aprendendo, buscando desenvolver soluções de software.\
+🎓 &nbsp;Atualmente estou cursando Engenharia de Software no Centro Universitário Católica do Leste de Minas Gerais.\
+🌱 &nbsp;Estou me dedicando e seguindo o caminho certo para aprender mais sobre inteligência artificial, design de sistemas e arquitetura de nuvem.\
+✍️ No meu tempo livre, busco aprender UX/UI, automação de tarefas com bots e IA, aperfeiçoamento pessoal, leitura de livros, games, lazer com familia e amigos e assistir filmes
 
-Here are some ideas to get you started:
+<div align=center>
+   <img alt="Night Coding" src="https://i.imgur.com/tbgWQm3.gif"/> 
+ </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+ 🤝🏻 &nbsp;Conecte-se comigo: <a href="https://www.linkedin.com/in/roger-augusto/"><img height="15px" width="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
