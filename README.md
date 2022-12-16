@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+          
 <!--
 **rgr14/rgr14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
