@@ -1,4 +1,4 @@
-ffffffffff<div align=center>
+<div align=center>
 
  <h2>Tecnologias que eu uso</h2>
  
