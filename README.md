@@ -26,7 +26,7 @@
           
  ### 👨🏻‍💻 &nbsp;Sobre mim
 💡 &nbsp;Sou curioso gosto de explorar novas tecnologias, estar sempre aprendendo, buscando desenvolver soluções de software.\
-🎓 &nbsp;Atualmente estou cursando Engenharia de Software no Centro Universitário Católica do Leste de Minas Gerais.\
+🎓 &nbsp;Sou Engenhario de Software formado pelo Centro Universitário Católica do Leste de Minas Gerais.\
 🌱 &nbsp;Estou me dedicando e seguindo o caminho certo para aprender mais sobre inteligência artificial, design de sistemas e arquitetura de nuvem.\
 ✍️ No meu tempo livre, busco aprender UX/UI, automação de tarefas com bots e IA, aperfeiçoamento pessoal, leitura de livros, games, lazer com familia e amigos e assistir filmes
 
