@@ -50,17 +50,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/rgr14">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgr14&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rgr14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-
----
-
 ## 📫 Vamos conversar?
 
 <div align="center">
