@@ -1,6 +1,6 @@
 # Olá! Eu sou o Roger Augusto 👋
 
-**Desenvolvedor Full Stack** apaixonado por criar soluções escaláveis e performáticas. Trabalho com ecossistemas web e mobile, focando em arquitetura de APIs, otimização de performance e integrações de plataformas de advertising.
+**Desenvolvedor Full Stack** apaixonado por criar soluções escaláveis e performáticas. Trabalho com ecossistemas web e mobile, focando em arquitetura de APIs, otimização de performance e integrações.
 
 ---
 
