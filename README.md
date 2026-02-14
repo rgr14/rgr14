@@ -12,11 +12,11 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Octane](https://img.shields.io/badge/Laravel_Octane-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![FrankenPHP](https://img.shields.io/badge/FrankenPHP-0D0D0D?style=for-the-badge&logo=php&logoColor=white)
 ![Swoole](https://img.shields.io/badge/Swoole-007EC6?style=for-the-badge&logo=swoole&logoColor=white)
 ![Hyperf](https://img.shields.io/badge/Hyperf-5B67EE?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -42,7 +42,7 @@
 
 ## 🚀 O que eu faço
 
-- **APIs & Integrações** — Desenvolvimento de APIs robustas com Laravel, integrações com Google Ads API, Google Ad Manager e plataformas de advertising
+- **APIs & Integrações** — Desenvolvimento de APIs robustas  e escaláveis com Laravel
 - **Rede de Blogs** — Gerenciamento de múltiplos blogs WordPress com otimização de performance, analytics customizado e monetização via ad networks
 - **Aplicações SaaS** — Sistemas completos com Laravel + Vue.js, incluindo autenticação com Sanctum, filas, e deploy com Octane/FrankenPHP
 - **Performance & Otimização** — Configuração de servidores de alta performance, cache strategies e otimização de entrega de conteúdo
@@ -53,11 +53,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rgr14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rgr14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
+  <a href="https://github.com/rgr14">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgr14&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rgr14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
 
 ---
